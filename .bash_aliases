@@ -25,5 +25,5 @@ alias julia='exec /Applications/Julia-1.4.app/Contents/Resources/julia/bin/julia
 # default coloring on LS
 alias ls='ls -G'
 
-# self-explanatory
-alias x='clear && ls'
+# quick clear, pwd, ls!
+alias x='clear && pwd && ls'
