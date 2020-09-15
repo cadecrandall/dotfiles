@@ -27,3 +27,6 @@ alias ls='ls -G'
 
 # quick clear, pwd, ls!
 alias x='clear && pwd && ls'
+
+# start Jupyter notebook
+alias jnb='jupyter notebook'
